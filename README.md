@@ -37,6 +37,8 @@ The original file reads "I am a file. I store Unicode characters as data." as se
 ![image](https://user-images.githubusercontent.com/44344714/125538595-cfdcfce2-9b73-4bce-afec-6a31481e5d99.png)
 
 
+
+
 I edited the file to include another line.
 ![image](https://user-images.githubusercontent.com/44344714/125538743-e6c42590-e80c-4062-b8f1-66f90ee073a4.png)
 
