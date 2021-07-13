@@ -32,6 +32,6 @@ I edited the file to include another line.
 ![image](https://user-images.githubusercontent.com/44344714/125538743-e6c42590-e80c-4062-b8f1-66f90ee073a4.png)
 
 I will now add and push the file along with this `README.md` file.
-![image](https://user-images.githubusercontent.com/44344714/125539080-a155837c-e6fe-4124-a8da-49397d0e9dfc.png)
+![image](https://user-images.githubusercontent.com/44344714/125539642-05a1c2db-2db2-4d9e-a6a8-f2a6afe85033.png)
 
 We are now done.
